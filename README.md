@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OrigamicSeed
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning how to be a Unity-monster
-- 💞️ I’m looking to collaborate on games development
 - 📫 How to reach me : th@origamicseed.com
 
 <!---
